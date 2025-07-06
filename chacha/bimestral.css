@@ -851,7 +851,7 @@ body .form{
 
 
 
-@media (max-width: 480px){
+@media (max-width: 520px){
     /*Para celular*/
     body::selection{
     background-color: black;
