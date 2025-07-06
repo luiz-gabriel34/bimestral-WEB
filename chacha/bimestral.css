@@ -1,5 +1,7 @@
 @charset "UTF-8";
 
+/*Charleno não tira ponto por causa das cores que nós colocou não por favor*/
+
 @media (max-width: 3000px){
     /*Para computador e tv*/
     body::selection{
